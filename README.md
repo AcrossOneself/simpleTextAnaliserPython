@@ -1,6 +1,6 @@
-# simple Text Analiser written in Python3
+# simple Text Analyser written in Python3
 
- A utility tool that can perform analysis on a given piece of text. Complete the class 'analysedText' with the following methods:
+ A utility tool that can perform analysis on a given piece of text. Complete class 'analysedText' with the following methods:
     
     1. Constructor - Takes argument 'text', makes it lower case and removes all punctuation.
         Assuming only the following punctuation is used - period (.), exclamation mark (!), comma (,) and question mark (?).
