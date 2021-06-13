@@ -1,4 +1,4 @@
-# simple Text Analiser writte in Python3
+# simple Text Analiser written in Python3
 
  A utility tool that can perform analysis on a given piece of text. Complete the class 'analysedText' with the following methods:
     
